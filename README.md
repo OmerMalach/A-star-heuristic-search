@@ -2,4 +2,4 @@
 
 This repo serves as an implementation for coding a **Multi-Agent Pathfinding A:star: algorithm**(Heuristic Search) from scratch in Python using just networkx.
 
-Assignment instructions can be found in ex1.pdf 
+Assignment instructions can be found in ex1.pdf -> A Board of Trouble
